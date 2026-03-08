@@ -1,0 +1,14 @@
+@font-face {
+  font-family: DOS Font;
+  src: url("https://tdrbot.github.io/fonts/DOSFont.ttf");
+}
+
+body {
+    font-family: DOS Font;
+    color: white;
+    background-color:rgb(0, 0, 50);
+    text-shadow: 0px 0px 6px white;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal;
+}
